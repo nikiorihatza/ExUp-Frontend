@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2019001,
+    "firstName": "John",
+    "lastName": "Doe",
+    "schoolClass": "3CHIF",
+    "primaryGroupID": 101
+  },
+  {
+    "id": 2019002,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "schoolClass": "5BHIF",
+    "primaryGroupID": 102
+  },
+  {
+    "id": 2019003,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "schoolClass": "1AHIF",
+    "primaryGroupID": 103
+  },
+  {
+    "id": 2019004,
+    "firstName": "Alice",
+    "lastName": "Williams",
+    "schoolClass": "5AHIF",
+    "primaryGroupID": 104
+  }
+]
